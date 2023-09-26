@@ -1,0 +1,9 @@
+0 = Fares computer  = d0:37:45:89:48:90
+1 = Fares Mobile    = 64:dd:e9:d0:b8:12
+2 = Sabrina Mobile  = b4:a5:ac:ed:c0:db
+3 = Shaima Mobile   = bc:6a:d1:bf:bd:50
+4 = Sakina Mobile 1 = 3c:19:5e:13:03:31
+5 = Sakina Mobile 2 = b8:8f:27:47:bf:bf
+6 = Donia Mobile    = 9c:f5:31:66:b8:03
+7 = Kenza Mobile    = fc:19:99:5d:04:cb
+8 = Aisa Laptop     = 20:16:d8:4b:19:c2
